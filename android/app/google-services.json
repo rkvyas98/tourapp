@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1027357328605",
+    "firebase_url": "https://tourapp-acd5b.firebaseio.com",
+    "project_id": "tourapp-acd5b",
+    "storage_bucket": "tourapp-acd5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027357328605:android:6f0312e7d52c9309bc4734",
+        "android_client_info": {
+          "package_name": "com.example.tour_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027357328605-s308leq4vbqr8i61lnf79l1fm5v5gm62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAax_wauum1_4-b8a891Eo-Y4hZT2QeYOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027357328605-s308leq4vbqr8i61lnf79l1fm5v5gm62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+TourApp will make the user to have a virtual tour of different tourist destination in the world via mobile application . It will be composed of a sequence of videos or still images. It will also use other multimedia elements such as sound effects, music, narration, and text.
+
+Using this application user can have virtual tour :
+
+With the help of images of that place.
+360 View of that place.
+Videos related to the place.
+Amazing facts related to that destination in written as well as audio format.
+Application will you to navigate the place via default Map application in your device.
+Public comments section will be there for the user to share anything regarding the place.
